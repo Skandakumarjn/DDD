@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Streamlit",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "debugpy",
+            "args": [
+                "-m",
+                "streamlit",
+                "run",
+                "c:/Users/SKANDA KUMAR J N/OneDrive/Desktop/app/final.py"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
