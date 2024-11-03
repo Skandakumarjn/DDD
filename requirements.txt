@@ -3,6 +3,6 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 opencv-python==4.10.0.84
 imutils==0.5.4
-dlib == 19.24.99-cp312-cp312-win_amd64.whl
+dlib @ dlib-19.24.99-cp312-cp312-win_amd64.whl
 numpy==1.26.4
 pygame==2.6.1
