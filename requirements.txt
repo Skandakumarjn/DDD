@@ -3,6 +3,6 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 opencv-python==4.10.0.84
 imutils==0.5.4
-dlib @ file:///C:/Users/SKANDA%20KUMAR%20J%20N/Downloads/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
+dlib == 19.24.0
 numpy==1.26.4
 pygame==2.6.1
